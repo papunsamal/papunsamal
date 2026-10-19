@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=220&section=header&text=PAPUN%20SAMAL&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=MERN%20STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" alt="Papun Samal developer banner" />
+<img src="https://raw.githubusercontent.com/papunsamal/papunsamal/main/3d-banner.svg" width="100%" alt="Papun Samal animated 3D banner" />
 
 <br/>
 
